@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I am Julian Pieles 👋
+
+<a href="https://stackoverflow.com/users/1029251/julian-pieles"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"></a>
+
+#### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razem-io&theme=nord&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=188)](https://github.com/anuraghazra/github-readme-stats)
+[![razem-io's GitHub stats](https://github-readme-stats.vercel.app/api?username=razem-io&show_icons=true&theme=nord&count_private=true&line_height=24)](#)
+
+#### Resume
+
+https://github.com/razem-io/resume
 
 <!--
 **razem-io/razem-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
